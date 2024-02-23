@@ -9,7 +9,7 @@ I've been studying web development in a technical degree for two years now, and 
 *   🌍  I'm based in Cartago, Costa Rica
 *   ✉️  You can contact me at [obandosm01@outlook.com](mailto:obandosm01@outlook.com)
 *   🧠  I'm learning JavaScript, Figma, React
-*   🎈  I like speedcubing, gaming and writing novels
+*   🎈  I like speedcubing, gaming, writing novels and hedgehogs!
 
 ### Skills 
 <p align="left">
