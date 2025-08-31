@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Santiago Obando
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Santiago Obando.
 =======================================================================================================================================
 
 Junior Web Developer
+Currently CS engineering student at <a href="https://www.tec.ac.cr/">Tecnológico de Costa Rica<a/>.
 --------------------
-
-I've been studying web development in a technical degree for two years now, and I'm sure that it is my passion, both backend and frontend. I'm also very interested in learning cybersecurity.
 
 *   🌍  I'm based in Cartago, Costa Rica
 *   ✉️  You can contact me at [obandosm01@outlook.com](mailto:obandosm01@outlook.com)
-*   🧠  I'm learning JavaScript, Figma, React
 *   🎈  I like speedcubing, gaming, writing novels and hedgehogs!
 
 ### Skills 
